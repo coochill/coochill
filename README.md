@@ -10,7 +10,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coochill&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=coochill&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </p>
 
 ---
