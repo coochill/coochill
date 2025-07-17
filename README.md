@@ -9,22 +9,27 @@
 
 ### 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=coochill&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C)
-
----
-
-### 🐍 Contribution Snake
-
-![Snake gif](https://github.com/coochill/coochill/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coochill&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" alt="trophies" />
+</p>
 
 ---
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coochill&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coochill&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
 ### 🔝 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coochill&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coochill&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github.com/coochill/coochill/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+</p>
+
+---
