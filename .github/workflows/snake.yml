@@ -6,10 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake.svg
+      - name: Generate snake.svg and snake.gif
         uses: Platane/snk@master
         with:
           github_user_name: coochill
@@ -17,7 +18,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      - name: Push to output branch
+      - name: Deploy to output branch
+        if: ${{ success() }}
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
