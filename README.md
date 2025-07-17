@@ -9,17 +9,15 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=coochill&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
+
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coochill&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats" />
-</p>
+
 
 ---
 
