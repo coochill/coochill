@@ -1,12 +1,3 @@
-<h1 align="center">Hey, I'm Joy</h1>
-
-<p align="center">
-  <em>“When brain meets the heart, purpose begins.”</em><br>
-   I find fulfillment in giving more than I take.
-</p>
-
----
-
 ###  GitHub Trophies
 
   <img src="https://github-profile-trophy.vercel.app/?username=coochill&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
