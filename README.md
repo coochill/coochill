@@ -46,6 +46,7 @@ data-driven systems, and practical applications of AI.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
+
 ##  Featured Projects
 
 ###  SCB-YOLO — Multi-Class Face Accessory Detection
@@ -54,7 +55,12 @@ Two-tier computer vision framework based on YOLOv12, integrating
 Squeeze-and-Excitation blocks, class-weighted loss, DeepSORT tracking,
 and Bayesian fusion for temporal refinement.
 
-**Tech:** Python • PyTorch • YOLOv12 • DeepSORT • Bayesian Fusion • Roboflow • CVAT
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLOv12](https://img.shields.io/badge/YOLOv12-111111?style=for-the-badge)
+![DeepSORT](https://img.shields.io/badge/DeepSORT-4B5563?style=for-the-badge)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge)
+![CVAT](https://img.shields.io/badge/CVAT-009688?style=for-the-badge)
 
 ---
 
@@ -63,7 +69,12 @@ and Bayesian fusion for temporal refinement.
 IoT-based energy monitoring system integrating a web application with
 ESP32 and PZEM-004T hardware.
 
-**Tech:** React • Node.js • Express.js • Firebase • ESP32 • PZEM-004T
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![PZEM--004T](https://img.shields.io/badge/PZEM--004T-374151?style=for-the-badge)
 
 ---
 
@@ -73,7 +84,12 @@ Health monitoring and reporting application featuring Firebase
 authentication, real-time health logging, dashboards, and a nearby
 hospital locator.
 
-**Tech:** React • Vite • Tailwind CSS • Firebase • Flask • Chart.js
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ---
 
@@ -82,7 +98,10 @@ hospital locator.
 Interactive cipher-learning platform featuring MineCipher, an educational
 Vigenère cipher game with adjustable difficulty and expanded word logic.
 
-**Tech:** React • Vite • Tailwind CSS • Flask
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
