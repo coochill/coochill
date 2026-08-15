@@ -10,122 +10,40 @@ data-driven systems, and practical applications of AI.
 
 ##  Tech Stack
 
-###  Languages
+### Languages
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php" width="50" alt="PHP"/>
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<p align="left">
-  <strong>JavaScript</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Python</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>PHP</strong>
-</p>
+### Frontend
 
-###  Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/>
-  </a>
-</p>
+### Backend
 
-<p align="left">
-  <strong>React</strong>&nbsp;&nbsp;&nbsp;
-  <strong>Vite</strong>&nbsp;&nbsp;&nbsp;
-  <strong>Tailwind CSS</strong>&nbsp;&nbsp;&nbsp;
-  <strong>HTML</strong>&nbsp;&nbsp;&nbsp;
-  <strong>CSS</strong>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-###  Backend
+### Databases & Cloud
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node.js"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express" width="50" alt="Express.js"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask" width="50" alt="Flask"/>
-  </a>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<p align="left">
-  <strong>Node.js</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Express.js</strong>&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Flask</strong>
-</p>
+### AI & Computer Vision
 
-###  Databases & Cloud
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" width="50" alt="MySQL"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/>
-  </a>
-</p>
+### Developer Tools
 
-<p align="left">
-  <strong>MySQL</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Firebase</strong>
-</p>
-
-###  AI & Computer Vision
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch" width="50" alt="PyTorch"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv" width="50" alt="OpenCV"/>
-  </a>
-</p>
-
-<p align="left">
-  <strong>PyTorch</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>OpenCV</strong>
-</p>
-
-###  Developer Tools
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/>
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="left">
-  <strong>Git</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>GitHub</strong>
-</p>
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
 
 ##  Featured Projects
