@@ -121,6 +121,9 @@ management, UI design, legacy code refactoring, and application security.
   <a href="https://linkedin.com/in/joy-susette-domingo-937759342">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
   </a>
+    <a href="mailto:joysusette@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50" alt="Gmail"/>
+  </a>
 </p>
 
 **LinkedIn:** [joy-susette-domingo](https://linkedin.com/in/joy-susette-domingo-937759342)
