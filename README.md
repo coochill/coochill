@@ -1,4 +1,4 @@
-# Hi, I'm Joy Susette 👋
+# I'm Joy Susette Domingo 👋
 
  **Computer Science Graduate | Cum Laude**  
  **Software Engineering • Full-Stack Development • Computer Vision**
