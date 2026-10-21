@@ -1,10 +1,9 @@
-# I'm Joy Susette Domingo 👋
+# I'm Joy Susette Domingo 
 
  **Computer Science Graduate | Cum Laude**  
  **Software Engineering • Full-Stack Development • Computer Vision**
 
-I'm a Computer Science graduate interested in building reliable software,
-data-driven systems, and practical applications of AI.
+I enjoy building software that solves practical problems, from full-stack web applications and backend systems to data-driven solutions and computer vision. I'm interested in understanding how things work, improving existing solutions, and turning ideas into functional applications.
 
 ---
 
